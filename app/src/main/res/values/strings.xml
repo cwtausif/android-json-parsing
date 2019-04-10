@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Awesome Movies</string>
+
+    <string name="network_error">Network not connected</string>
+    <string name="retry">Retry</string>
+    <string name="no_status_false">Invalid Response</string>
+    <string name="no_movies">No Movies Found</string>
+</resources>
